@@ -1,4 +1,4 @@
-# Kotlin introduction Applications
+# Kotlin introduction Application
 
 ## Features :
  * Display Image on the Application
